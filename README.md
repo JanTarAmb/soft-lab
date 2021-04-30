@@ -1,1 +1,4 @@
-# soft-lab
+- git config --global user.name "Имя"  задаём имя пользователя
+- git config --global user.email "адрес"  задаём Email пользователя
+- cd D:\путь_к_папке\  изменяем текущу директорию
+- git branch -m main  изменяем имя ветки на main
